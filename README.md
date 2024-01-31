@@ -20,11 +20,11 @@ The PyTorch Implementation based on YOLOv4 of the paper: [Complex-YOLO: Real-tim
 ### 2.1. Requirement
 
 ```shell script
-pip install -U -r requirements.txt
+pip install -U -r requirements.txt or pip freeze > requirements.txt
+pip install mayavi
+pip install PyQt5
+pip install shapely
 ```
-
-For [`mayavi`](https://docs.enthought.com/mayavi/mayavi/installation.html) and [`shapely`](https://shapely.readthedocs.io/en/latest/project.html#installing-shapely) 
-libraries, please refer to the installation instructions from their official websites.
 
 
 ### 2.2. Data Preparation
