@@ -1,4 +1,4 @@
-# Complex YOLOv4
+# Multi modal fusion with Complex YOLOv4
 
 [![python-image]][python-url]
 [![pytorch-image]][pytorch-url]
