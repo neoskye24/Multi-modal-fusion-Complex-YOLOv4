@@ -13,20 +13,8 @@ The PyTorch Implementation based on YOLOv4 of the paper: [Complex-YOLO: Real-tim
 - [x] Tensorboard
 - [x] Mosaic/Cutout augmentation for training
 - [x] Use [GIoU](https://arxiv.org/pdf/1902.09630v2.pdf) loss of rotated boxes for optimization.
-
-- **Update 2020.08.26**: [Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)
-    - Faster training, faster inference
-    
-    - An Anchor-free approach
-    
-    - No need for Non-Max-Suppression
-    
-    - Demonstration (on a GTX 1080Ti)
-
-[![demo](http://img.youtube.com/vi/FI8mJIXkgX4/0.jpg)](http://www.youtube.com/watch?v=FI8mJIXkgX4)
-
-
-**[Youtube link](https://youtu.be/FI8mJIXkgX4)**
+- [x] An Anchor-free approach
+- [x] No need for Non-Max-Suppression
 
 ## 2. Getting Started
 ### 2.1. Requirement
